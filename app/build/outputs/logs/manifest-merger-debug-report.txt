@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\5e81019bb19dedbeadff99c3566af416\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a158b9d425dda891de3aa3e501a69eab\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\0cbb3851e4b63e68b75aa6e0a1a2998e\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9bb335e4785cfec91958375c7c0d4aa2\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7ca56dfba940f983eba4080aaa416d89\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\000ad8ee5f29acfc65944a32f3753966\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4349ab4e4c45e97632d5353aacae065e\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\771816ae8e06b0c41ff73eae6fac9135\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\c2034ab0ff35e96078b34711295ecdd3\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\01e4967e0f2302a16a9b2fcd8f96fcc1\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\60a7bee2d12bff828fd51d809c62c5b8\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb5a016c1128e32e1712d391c864feb\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b82fc5dd0b97005a57d3ba969f8caf53\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4eb148aadd7f493ffc017c56a5afb1e7\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\44c43eaf53b06736822a6f66de7e3952\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\ae71b48614c9ab6341472b4d4b349c24\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\73e1622e0283f301bc23a23ce077ad8e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\0cbb3851e4b63e68b75aa6e0a1a2998e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\0cbb3851e4b63e68b75aa6e0a1a2998e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7ca56dfba940f983eba4080aaa416d89\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7ca56dfba940f983eba4080aaa416d89\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:11:9-40
+activity#unpsjb.ing.tnt.ligadeportiva.NuevoPartidoActivity
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:12:9-67
+	android:name
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:12:19-55
+activity#unpsjb.ing.tnt.ligadeportiva.MainActivity
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\5e81019bb19dedbeadff99c3566af416\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\5e81019bb19dedbeadff99c3566af416\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a158b9d425dda891de3aa3e501a69eab\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a158b9d425dda891de3aa3e501a69eab\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\0cbb3851e4b63e68b75aa6e0a1a2998e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\0cbb3851e4b63e68b75aa6e0a1a2998e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bd9eaa2992ad422b7eac643b0aac27f7\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9bb335e4785cfec91958375c7c0d4aa2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9bb335e4785cfec91958375c7c0d4aa2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\85fa2711bb2ad134a23924a267c31046\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7ca56dfba940f983eba4080aaa416d89\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7ca56dfba940f983eba4080aaa416d89\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a8b5f2f918ccd5b61b38ba8ba7a0ef9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a814bd133b4039435948c0667ee48966\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\9eea074cf652341d7c423b14c7cccd8e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\000ad8ee5f29acfc65944a32f3753966\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\000ad8ee5f29acfc65944a32f3753966\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4349ab4e4c45e97632d5353aacae065e\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4349ab4e4c45e97632d5353aacae065e\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\771816ae8e06b0c41ff73eae6fac9135\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\771816ae8e06b0c41ff73eae6fac9135\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\c2034ab0ff35e96078b34711295ecdd3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\c2034ab0ff35e96078b34711295ecdd3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\6f4cd621519e3e202420d4703573fbf0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\65a54277910d0fe1727441ce8390724a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\f65d04a2562ed7058bccea557754c28a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\01e4967e0f2302a16a9b2fcd8f96fcc1\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\01e4967e0f2302a16a9b2fcd8f96fcc1\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\e09806fedcaf73ee0e22595e708735dc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\63eb00b0bf61ca493168a066cb8498da\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\60a7bee2d12bff828fd51d809c62c5b8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\60a7bee2d12bff828fd51d809c62c5b8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\a3eef63a1949ce565e26a68908e433ce\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb5a016c1128e32e1712d391c864feb\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb5a016c1128e32e1712d391c864feb\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b82fc5dd0b97005a57d3ba969f8caf53\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b82fc5dd0b97005a57d3ba969f8caf53\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\7891f0d20ff439e3f9e3aa12fecc3819\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4eb148aadd7f493ffc017c56a5afb1e7\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\4eb148aadd7f493ffc017c56a5afb1e7\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\95625912cc43b3efb0ad0faa42339d43\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\bbeb49b76f836840afd2c7da05a4a8b8\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\44c43eaf53b06736822a6f66de7e3952\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\44c43eaf53b06736822a6f66de7e3952\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\ae71b48614c9ab6341472b4d4b349c24\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\ae71b48614c9ab6341472b4d4b349c24\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8fb84686ddcc564983df753d3c52ba17\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2e34ef014dc78a39de7dc7d54c23f54d\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\73e1622e0283f301bc23a23ce077ad8e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\73e1622e0283f301bc23a23ce077ad8e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\2b5a4cd18c0e85677b51f808520e4d53\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\b438d021203b1b2cd4bf7ee7b187a00e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leomorales\code\tmp\tnt-2020-tw\ligadeportivaroom\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\8919691c3457dfbcdaab28af3160a9ea\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\leomorales\.gradle\caches\transforms-2\files-2.1\64b2d8bb90f2c039608d04ac89462f58\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
